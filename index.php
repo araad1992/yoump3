@@ -219,7 +219,9 @@ echo '<br /><div class="row" style="background:#fff">
 </div>
 <br/><br/>
 <footer class="container-fluid text-center">
-  <p>Footer Text</p>
+  <a href='//www.convertmp3.io/fetch/?video=https://www.youtube.com/watch?v=i62Zjga8JOM' style='text-decoration:none;color:#03a730;'>
+    <img src='//www.convertmp3.io/icon/download.png' style='vertical-align:middle;'> <strong>Download MP3</strong>
+  </a>
 </footer>
 
 </body>
